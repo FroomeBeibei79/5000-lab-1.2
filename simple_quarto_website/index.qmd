@@ -1,0 +1,127 @@
+---
+title: "simple_quarto_website"
+author: Xingrui Huo
+toc: true
+number-sections: true
+bibliography: reference.bib
+
+---
+# Cars
+
+ Hi! This is a Car guy website
+
+Let's first start with some of the vehicle manufactures around the globe
+
+##  Vehicle Brands
+
+### Euro
+Audi, Porsche, Volkswagan, BMW, Mercedes-Benz, Ferrari, Alfa Romeo, Pagani, Renault, Mini, Volvo, Lamborghini, bentley, Rolls Royces
+
+### Asia
+Honda, Toyota, Xpeng, NIO, Kia, Mazda, Hyundai, Nissan, Infiniti, BYD
+
+### America
+Ford, Buick, Chevolet, Jeep, General Motors, Tesla, Lincoln, Corvette, Saturn, Ram, Plymouth, Dodge, Cadillac
+
+
+Let's Start with some europe manufactures!
+
+
+### Audi & BMW
+
+
+
+:::: {.columns}
+
+::: {.column width="40%"}
+- Audi A series
+
+- Audi S series
+
+- Audi RS series
+
+- Audi Sport
+:::
+
+::: {.column width="60%"}
+- BMW number series
+
+- BMW X series
+
+- BMW M series
+
+- BMW M Sport series
+:::
+
+::::
+
+
+### Audi Engiens
+
+| A Series | S Series | RS Series |
+|----------|----------|----------|
+| EA 211 | EA 839 (3.0T) | EA 825 (T) |
+| EA 888 | EA 839 (2.9T) | EA 825 (TT) |
+
+![Audi RS 6 with EA 825 (TT)](images/Audi%20RS%206.jpeg)
+
+### BMW Engiens
+
+| Number & X Series | M Series | M Sport Series |
+|----------|----------|----------|
+| B 38 | B 58 | S 58 |
+| B 48 | N 63 | S 63 |
+| B 58 |      |      | 
+
+![BMW M5 with S63](images/BMW%20M5.jpeg)
+
+Here we only list the Engine, not specific models[^1]
+
+[^1]: One same engine have slightly different models based on differnt vehicles, country law's requirments, and marketing needs
+
+
+
+
+This is an inline math equation: <span style="font-size: 120%;">
+$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$</span>.
+
+
+The area of a circle with radius \(r\) is given by the formula:
+
+$$
+[A = \pi r^2]
+$$
+
+Where:
+
+- \(A\) is the area of the circle.
+  
+- (pi) is approximately 3.14159.
+  
+- \(r\) is the radius of the circle.
+
+> Speed has never killed anyone, suddenly becoming stationary… That's what gets you -- Jeremy Clarkson
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=pAoZWyLMb6c" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+```{mermaid}
+graph LR;
+  A[A4, A5] --> B(S4, S5);
+  B --> C(RS4, RS5);
+
+```
+
+
+
+
+
+This approach enables you to use the same bibliography with different citation
+styles without having to change anything about your document or the bibliography itself apart from the bibliography style when your paper is finally compiled
+for print.
+[@fenn_managing_2006]
+
+
