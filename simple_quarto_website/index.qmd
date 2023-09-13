@@ -105,7 +105,7 @@ Where:
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=pAoZWyLMb6c" frameborder="0" allowfullscreen></iframe>
 
-
+{{< video https://www.youtube.com/watch?v=pAoZWyLMb6c >}}
 
 
 ```{mermaid}
