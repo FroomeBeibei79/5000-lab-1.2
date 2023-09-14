@@ -89,5 +89,12 @@
     "title": "Intro to Cars",
     "section": "A Plot",
     "text": "A Plot\n\n\n\n\n\n\n\nFenn, Jürgen. 2006. “Managing Citations and Your Bibliography with BibTEX.” The PracTEX Journal. http://svn.tug.org/pracjourn/2006-4/fenn/fenn.pdf."
+  },
+  {
+    "objectID": "slides/slides.html",
+    "href": "slides/slides.html",
+    "title": "Intro to Cars",
+    "section": "",
+    "text": "Audi\nBMW\nMercedes-Benz\nPorsche\n\n\n\n\n\nFord\nLincoln\nJeep\nCorvette\nDodge\n\n\n\n\n\nHonda\nToyota\nXpeng\nNIO\n\n\n\n\n\n\nA1\nA3\nA4\nA5\nA6\nA7\nA8\n\n\n\n\n\n\n\n\nAudi A4\n\n\n\n\n\n\n\n\nAudi A8\n\n\n\n\n\nThis approach enables you to use the same bibliography with different citation styles without having to change anything about your document or the bibliography itself apart from the bibliography style when your paper is finally compiled for print. (Fenn 2006)\n\n\n\n\necho = False\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Generate some data\nx = np.linspace(0, 2 * np.pi, 100)\ny = np.sin(x)\n\n# Create a plot\nplt.figure(figsize=(8, 4))\nplt.plot(x, y, label='Sine Wave')\nplt.xlabel('x')\nplt.ylabel('sin(x)')\nplt.legend()\nplt.title('Sine Wave Plot')\nplt.grid(True)\nplt.show()"
   }
 ]
