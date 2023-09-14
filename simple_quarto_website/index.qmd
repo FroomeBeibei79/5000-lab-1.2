@@ -103,8 +103,9 @@ Where:
 > Speed has never killed anyone, suddenly becoming stationary… That's what gets you -- Jeremy Clarkson
 
 
-
-{{< video https://www.youtube.com/watch?v=9Ah4tW-k8Ao >}}
+<video width="640" height="360" controls>
+<source src="images/video.mp4" type="video/mp4">
+</video>
 
 
 ```{mermaid}
