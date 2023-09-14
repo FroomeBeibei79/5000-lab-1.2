@@ -4,6 +4,10 @@ author: Xingrui Huo
 toc: true
 number-sections: true
 bibliography: reference.bib
+format: 
+  revealjs:
+    embed-resources: true 
+
 
 ---
 # Cars
@@ -81,7 +85,7 @@ Here we only list the Engine, not specific models[^1]
 
 
 
-
+### Some Requirements
 This is an inline math equation: <span style="font-size: 120%;">
 $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$</span>.
 
@@ -102,10 +106,14 @@ Where:
 
 > Speed has never killed anyone, suddenly becoming stationary… That's what gets you -- Jeremy Clarkson
 
+### Video Comparison
+This is a video showing Audi RS 6
 
-<video width="640" height="360" controls>
-<source src="images/video.mp4" type="video/mp4">
-</video>
+{{< video https://www.youtube.com/watch?v=QXTPmmY_eKs >}}
+
+This is a video showing BMW M5
+
+{{< video https://www.youtube.com/watch?v=OjwV4JqSAw0 >}}
 
 
 ```{mermaid}
