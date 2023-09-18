@@ -10,57 +10,65 @@ format:
 
 
 ---
-# Cars
+# About Me
 
- Hi! This is a Car guy website
+ Hi! My name is Xingrui Huo
 
-Let's first start with some of the vehicle manufactures around the globe
+This is a webpage that introduces me.
 
-##  Vehicle Brands
+##  Education
 
-### Euro
-Audi, Porsche, Volkswagan, BMW, Mercedes-Benz, Ferrari, Alfa Romeo, Pagani, Renault, Mini, Volvo, Lamborghini, bentley, Rolls Royces
+### Master
+Georgetown University, Master of Science, Data Science & Analytics
 
-### Asia
-Honda, Toyota, Xpeng, NIO, Kia, Mazda, Hyundai, Nissan, Infiniti, BYD
+Geoorgwetown is an excellent unviersity that sits in Georgetown, Washington, D.C.
 
-### America
-Ford, Buick, Chevolet, Jeep, General Motors, Tesla, Lincoln, Corvette, Saturn, Ram, Plymouth, Dodge, Cadillac
+### Undergraduate
+I spent my undergraduate life at Rutgers, the State University of New Jersey. RU Rah Rah!
+
+### Before
+Before my undergrad, I stayed back in China for 18 years, born and raised up in the same place.
 
 
-Let's Start with some europe manufactures!
+# What I like
+
+## Sports
+I love to bike, and watch Formula 1 during the weekend. Sometimes I also play the simulator on PC just to have fun, and experience the Formula 1 in a more intuitive way
+
+## Things in Life
+I like cars, A LOT. I love everything from the design of the car, the engine, transmission of the car, to the difference on configration of the car due to the different law and environmental requirments in different countries. I also have a very strong interest on analyzing anything data-related to the car. I have done a project before, which focuses on analyzing lap time driven by myself in game F1 22. Now I have switched tracks to collect data from real-world, and to see if the data can inspire me in some ways!
 
 
-### Audi & BMW
-
+## Foods!
+I love trying new foods in every places around the world. I also very much engaged with trying to re-make the same food at home. Ramen, steak, burrito, everything!
 
 
 :::: {.columns}
 
 ::: {.column width="40%"}
-- Audi A series
+- Ramen
 
-- Audi S series
+- Dumpling
 
-- Audi RS series
-
-- Audi Sport
+- Zongzi
 :::
 
 ::: {.column width="60%"}
-- BMW number series
+- Pizza
 
-- BMW X series
+- Barbecue
 
-- BMW M series
-
-- BMW M Sport series
+- Steak
 :::
 
 ::::
 
+## Bad things happens
 
-### Audi Engiens
+# My Interests in Future Carrer
+
+I have lots of interest in terms of my future possible outcomes. I can
+
 
 | A Series | S Series | RS Series |
 |----------|----------|----------|
