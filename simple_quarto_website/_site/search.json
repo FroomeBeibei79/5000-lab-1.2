@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Cars",
+    "title": "About Me",
     "section": "",
-    "text": "Hi! This is a Car guy website\nLet’s first start with some of the vehicle manufactures around the globe\n\n\n\n\nAudi, Porsche, Volkswagan, BMW, Mercedes-Benz, Ferrari, Alfa Romeo, Pagani, Renault, Mini, Volvo, Lamborghini, bentley, Rolls Royces\n\n\n\nHonda, Toyota, Xpeng, NIO, Kia, Mazda, Hyundai, Nissan, Infiniti, BYD\n\n\n\nFord, Buick, Chevolet, Jeep, General Motors, Tesla, Lincoln, Corvette, Saturn, Ram, Plymouth, Dodge, Cadillac\nLet’s Start with some europe manufactures!\n\n\n\n\n\n\nAudi A series\nAudi S series\nAudi RS series\nAudi Sport\n\n\n\nBMW number series\nBMW X series\nBMW M series\nBMW M Sport series\n\n\n\n\n\n\n\n\n\nA Series\nS Series\nRS Series\n\n\n\n\nEA 211\nEA 839 (3.0T)\nEA 825 (T)\n\n\nEA 888\nEA 839 (2.9T)\nEA 825 (TT)\n\n\n\n\n\n\nAudi RS 6 with EA 825 (TT)\n\n\n\n\n\n\n\n\nNumber & X Series\nM Series\nM Sport Series\n\n\n\n\nB 38\nB 58\nS 58\n\n\nB 48\nN 63\nS 63\n\n\nB 58\n\n\n\n\n\n\n\n\nBMW M5 with S63\n\n\nHere we only list the Engine, not specific models1\n\n\n\nThis is an inline math equation:  \\(x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\\).\nThe area of a circle with radius (r) is given by the formula:\n\\[\n[A = \\pi r^2]\n\\]\nWhere:\n\n(A) is the area of the circle.\n(pi) is approximately 3.14159.\n(r) is the radius of the circle.\n\n\nSpeed has never killed anyone, suddenly becoming stationary… That’s what gets you – Jeremy Clarkson\n\n\n\n\nThis is a video showing Audi RS 6\n\nThis is a video showing BMW M5\n\n\n\n\n\ngraph LR;\n  A[A4, A5] --&gt; B(S4, S5);\n  B --&gt; C(RS4, RS5);\n\n\n\n\n\n\nThis approach enables you to use the same bibliography with different citation styles without having to change anything about your document or the bibliography itself apart from the bibliography style when your paper is finally compiled for print. [@fenn_managing_2006]"
+    "text": "Hi! My name is Xingrui Huo\nThis is a webpage that introduces me.\n\n\n\n\nGeorgetown University, Master of Science, Data Science & Analytics\nGeoorgwetown is an excellent unviersity that sits in Georgetown, Washington, D.C.\n\n\n\nI spent my undergraduate life at Rutgers, the State University of New Jersey. RU Rah Rah!\n\n\n\nBefore my undergrad, I stayed back in China for 18 years, born and raised up in the same place."
   },
   {
     "objectID": "index.html#vehicle-brands",
@@ -30,7 +30,7 @@
   {
     "objectID": "index.html#footnotes",
     "href": "index.html#footnotes",
-    "title": "Cars",
+    "title": "About Me",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nOne same engine have slightly different models based on differnt vehicles, country law’s requirments, and marketing needs↩︎"
   },
@@ -38,57 +38,57 @@
     "objectID": "slides/slides.html#germany-vehicles",
     "href": "slides/slides.html#germany-vehicles",
     "title": "Intro to Cars",
-    "section": "Germany Vehicles",
-    "text": "Germany Vehicles\n\nAudi\nBMW\nMercedes-Benz\nPorsche"
+    "section": "",
+    "text": "Audi\nBMW\nMercedes-Benz\nPorsche"
   },
   {
     "objectID": "slides/slides.html#america-vehicles",
     "href": "slides/slides.html#america-vehicles",
     "title": "Intro to Cars",
-    "section": "America Vehicles",
-    "text": "America Vehicles\n\nFord\nLincoln\nJeep\nCorvette\nDodge"
+    "section": "",
+    "text": "Ford\nLincoln\nJeep\nCorvette\nDodge"
   },
   {
     "objectID": "slides/slides.html#asia-vehicles",
     "href": "slides/slides.html#asia-vehicles",
     "title": "Intro to Cars",
-    "section": "Asia Vehicles",
-    "text": "Asia Vehicles\n\nHonda\nToyota\nXpeng\nNIO"
+    "section": "",
+    "text": "Honda\nToyota\nXpeng\nNIO"
   },
   {
     "objectID": "slides/slides.html#europe-cars---audi-a-series",
     "href": "slides/slides.html#europe-cars---audi-a-series",
     "title": "Intro to Cars",
-    "section": "Europe Cars - Audi A Series",
-    "text": "Europe Cars - Audi A Series\n\n\nA1\nA3\nA4\nA5\nA6\nA7\nA8"
+    "section": "",
+    "text": "A1\nA3\nA4\nA5\nA6\nA7\nA8"
   },
   {
     "objectID": "slides/slides.html#audi-a4",
     "href": "slides/slides.html#audi-a4",
     "title": "Intro to Cars",
-    "section": "Audi A4",
-    "text": "Audi A4\n\nAudi A4"
+    "section": "",
+    "text": "Audi A4"
   },
   {
     "objectID": "slides/slides.html#audi-a8",
     "href": "slides/slides.html#audi-a8",
     "title": "Intro to Cars",
-    "section": "AUdi A8",
-    "text": "AUdi A8\n\nAudi A8"
+    "section": "",
+    "text": "Audi A8"
   },
   {
     "objectID": "slides/slides.html#a-citation",
     "href": "slides/slides.html#a-citation",
     "title": "Intro to Cars",
-    "section": "A Citation",
-    "text": "A Citation\nThis approach enables you to use the same bibliography with different citation styles without having to change anything about your document or the bibliography itself apart from the bibliography style when your paper is finally compiled for print. (Fenn 2006)"
+    "section": "",
+    "text": "This approach enables you to use the same bibliography with different citation styles without having to change anything about your document or the bibliography itself apart from the bibliography style when your paper is finally compiled for print. (Fenn 2006)"
   },
   {
     "objectID": "slides/slides.html#a-plot",
     "href": "slides/slides.html#a-plot",
     "title": "Intro to Cars",
-    "section": "A Plot",
-    "text": "A Plot\n\n\n\n\n\n\n\nFenn, Jürgen. 2006. “Managing Citations and Your Bibliography with BibTEX.” The PracTEX Journal. http://svn.tug.org/pracjourn/2006-4/fenn/fenn.pdf."
+    "section": "",
+    "text": "echo = False\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Generate some data\nx = np.linspace(0, 2 * np.pi, 100)\ny = np.sin(x)\n\n# Create a plot\nplt.figure(figsize=(8, 4))\nplt.plot(x, y, label='Sine Wave')\nplt.xlabel('x')\nplt.ylabel('sin(x)')\nplt.legend()\nplt.title('Sine Wave Plot')\nplt.grid(True)\nplt.show()"
   },
   {
     "objectID": "slides/slides.html",
@@ -96,5 +96,40 @@
     "title": "Intro to Cars",
     "section": "",
     "text": "Audi\nBMW\nMercedes-Benz\nPorsche\n\n\n\n\n\nFord\nLincoln\nJeep\nCorvette\nDodge\n\n\n\n\n\nHonda\nToyota\nXpeng\nNIO\n\n\n\n\n\n\nA1\nA3\nA4\nA5\nA6\nA7\nA8\n\n\n\n\n\n\n\n\nAudi A4\n\n\n\n\n\n\n\n\nAudi A8\n\n\n\n\n\nThis approach enables you to use the same bibliography with different citation styles without having to change anything about your document or the bibliography itself apart from the bibliography style when your paper is finally compiled for print. (Fenn 2006)\n\n\n\n\necho = False\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Generate some data\nx = np.linspace(0, 2 * np.pi, 100)\ny = np.sin(x)\n\n# Create a plot\nplt.figure(figsize=(8, 4))\nplt.plot(x, y, label='Sine Wave')\nplt.xlabel('x')\nplt.ylabel('sin(x)')\nplt.legend()\nplt.title('Sine Wave Plot')\nplt.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Georgetown University, Master of Science, Data Science & Analytics\nGeoorgwetown is an excellent unviersity that sits in Georgetown, Washington, D.C.\n\n\n\nI spent my undergraduate life at Rutgers, the State University of New Jersey. RU Rah Rah!\n\n\n\nBefore my undergrad, I stayed back in China for 18 years, born and raised up in the same place."
+  },
+  {
+    "objectID": "index.html#sports",
+    "href": "index.html#sports",
+    "title": "About Me",
+    "section": "Sports",
+    "text": "Sports\nI love to bike, and watch Formula 1 during the weekend. Sometimes I also play the simulator on PC just to have fun, and experience the Formula 1 in a more intuitive way"
+  },
+  {
+    "objectID": "index.html#things-in-life",
+    "href": "index.html#things-in-life",
+    "title": "About Me",
+    "section": "Things in Life",
+    "text": "Things in Life\nI like cars, A LOT. I love everything from the design of the car, the engine, transmission of the car, to the difference on configration of the car due to the different law and environmental requirments in different countries. I also have a very strong interest on analyzing anything data-related to the car. I have done a project before, which focuses on analyzing lap time driven by myself in game F1 22. Now I have switched tracks to collect data from real-world, and to see if the data can inspire me in some ways!"
+  },
+  {
+    "objectID": "index.html#foods",
+    "href": "index.html#foods",
+    "title": "About Me",
+    "section": "Foods!",
+    "text": "Foods!\nI love trying new foods in every places around the world. I also very much engaged with trying to re-make the same food at home. Ramen, steak, burrito, everything!\n\n\n\nRamen\nDumpling\nZongzi\n\n\n\nPizza\nBarbecue\nSteak"
+  },
+  {
+    "objectID": "index.html#bad-things-happens",
+    "href": "index.html#bad-things-happens",
+    "title": "About Me",
+    "section": "Bad things happens",
+    "text": "Bad things happens"
   }
 ]
