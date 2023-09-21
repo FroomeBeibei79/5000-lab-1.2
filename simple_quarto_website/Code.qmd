@@ -1,5 +1,13 @@
 ---
-title: "Untitled"
+title: "Code Section"
 format: html
 ---
 
+# This is Code Section
+
+## First is links section
+
+Link to my GitHub[My GitHub](https://github.com/FroomeBeibei79/5000-lab-1.2)
+
+This is a link to formula 1
+[Formula 1](https://www.formula1.com/)
