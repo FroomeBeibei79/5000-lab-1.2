@@ -41,6 +41,7 @@ I like cars, A LOT. I love everything from the design of the car, the engine, tr
 
 ## Foods!
 I love trying new foods in every places around the world. I also very much engaged with trying to re-make the same food at home. Ramen, steak, burrito, everything!
+Below are something I have tried to cook at home, and it was very good at the end!
 
 
 :::: {.columns}
@@ -63,12 +64,12 @@ I love trying new foods in every places around the world. I also very much engag
 
 ::::
 
-## Bad things happens
 
 # My Interests in Future Carrer
 
-I have lots of interest in terms of my future possible outcomes. I can
+I have lots of interest in terms of my future possible outcomes. I love to pursue my dreams and of course the first thing is to lay down a solid foundation for my future development.
 
+# Below still working on updating...
 
 | A Series | S Series | RS Series |
 |----------|----------|----------|
@@ -94,6 +95,9 @@ Here we only list the Engine, not specific models[^1]
 
 
 ### Some Requirements
+
+
+
 This is an inline math equation: <span style="font-size: 120%;">
 $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$</span>.
 

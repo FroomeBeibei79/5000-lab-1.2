@@ -5,14 +5,14 @@ website:
   title: "simple_quarto_website"
   sidebar:
     contents:
+      - href: Introduction.qmd
+        text: Introduction
       - href: index.qmd
         text: About me
       - href: Code.qmd
         text: Code
       - href: Data.qmd
         text: Data
-      - href: Introduction.qmd
-        text: Introduction
       - href: Data Gathering.qmd
         text: Data Gathering
       - href: Data Exploration.qmd
